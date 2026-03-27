@@ -61,10 +61,6 @@ doi : https://doi.org/10.48448/ecgr-7g05
 - **Silhouette Score**: 0.688
 - **Calinski-Harabasz Index**: 1718.96
 
-
-## Video
-- https://youtu.be/hsJStp7vkmU
-
 ## Authors
 
 - **Charlotte Wong** – University of Toronto  
