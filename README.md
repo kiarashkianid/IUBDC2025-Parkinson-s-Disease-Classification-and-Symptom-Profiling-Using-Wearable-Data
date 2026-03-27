@@ -4,7 +4,6 @@
 
 This project explores the use of wearable sensor data and machine learning techniques to improve the diagnosis and symptom profiling of Parkinson’s Disease (PD). By leveraging accelerometer data from Apple Watches and applying both supervised and unsupervised learning techniques, we aim to enhance early detection, classification, and symptom understanding of PD in a real-world context.
 
-doi : https://doi.org/10.48448/ecgr-7g05
 ## Objectives
 
 -  **Replicate** a supervised ML pipeline using Bag-of-Symbolic Fourier Approximation Symbols (BOSS) and Support Vector Machine (SVM) for PD classification
